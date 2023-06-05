@@ -1,0 +1,1 @@
+{"name":"Local: nex_permutation","url":"d:\\DSA\\sde challenge\\StriversSheetChallenge\\Next permutation\\nex_permutation.cpp","tests":[{"id":1685945631937,"input":"1\n5\n1 2 4 5 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\sde challenge\\StriversSheetChallenge\\Next permutation\\nex_permutation.cpp","group":"local","local":true}
