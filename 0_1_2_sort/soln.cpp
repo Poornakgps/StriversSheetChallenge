@@ -1,4 +1,5 @@
 #include <bits/stdc++.h> 
+using namespace std;
 void sort012(int *arr, int n)
 {
    int l=0, r=n-1, mid=0;
